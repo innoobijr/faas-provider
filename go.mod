@@ -1,4 +1,4 @@
-module github.com/openfaas/faas-provider
+module github.com/innoobijr/faas-provider
 
 go 1.20
 

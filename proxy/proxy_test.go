@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/openfaas/faas-provider/types"
+	"github.com/innoobijr/faas-provider/types"
 )
 
 const NameExpression = "-a-zA-Z_0-9."
